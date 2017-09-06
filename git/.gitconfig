@@ -2,8 +2,6 @@
 	autocrlf = false
 	quotepath = false
 	safecrlf = true
-[credential]
-	helper = wincred
 [user]
 	name = Hiroshi Umemoto
 	email = umt-hrs@users.noreply.github.com
